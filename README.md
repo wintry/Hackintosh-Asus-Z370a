@@ -1,4 +1,4 @@
-# Opencore(0.5.7) configuration on Ausu Z370a
+# Opencore(0.5.8) configuration on Ausu Z370a
 
 ![About My Mac](about.png)
 

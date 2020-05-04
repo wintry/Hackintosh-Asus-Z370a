@@ -240,7 +240,7 @@
 		<array>
 			<dict>
 				<key>BundlePath</key>
-				<string>Lilu-1.4.3.kext</string>
+				<string>Lilu-1.4.4.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -256,7 +256,7 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>VirtualSMC-1.1.2.kext</string>
+				<string>VirtualSMC-1.1.3.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -272,7 +272,7 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>WhateverGreen-1.3.8.kext</string>
+				<string>WhateverGreen-1.3.9.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -288,29 +288,13 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>AppleALC-1.4.8.kext</string>
+				<string>AppleALC-1.4.9.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AppleALC</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>IntelMausi-1.0.2.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/IntelMausi</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -359,6 +343,22 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>BundlePath</key>
+				<string>IntelMausiEthernet-2.5.1d1.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/IntelMausiEthernet</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -655,37 +655,6 @@
 			<false/>
 			<key>TextRenderer</key>
 			<string>BuiltinGraphics</string>
-		</dict>
-		<key>Protocols</key>
-		<dict>
-			<key>AppleAudio</key>
-			<false/>
-			<key>AppleBootPolicy</key>
-			<false/>
-			<key>AppleDebugLog</key>
-			<false/>
-			<key>AppleEvent</key>
-			<false/>
-			<key>AppleImageConversion</key>
-			<false/>
-			<key>AppleKeyMap</key>
-			<false/>
-			<key>AppleSmcIo</key>
-			<false/>
-			<key>AppleUserInterfaceTheme</key>
-			<false/>
-			<key>DataHub</key>
-			<false/>
-			<key>DeviceProperties</key>
-			<false/>
-			<key>FirmwareVolume</key>
-			<false/>
-			<key>HashServices</key>
-			<false/>
-			<key>OSInfo</key>
-			<false/>
-			<key>UnicodeCollation</key>
-			<false/>
 		</dict>
 		<key>Quirks</key>
 		<dict>
