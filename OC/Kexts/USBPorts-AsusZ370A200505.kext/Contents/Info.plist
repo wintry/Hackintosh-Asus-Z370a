@@ -55,7 +55,7 @@
 					<key>PRT1</key>
 					<dict>
 						<key>Comment</key>
-						<string>后U32-C</string>
+						<string>Rear3.2-TypeC</string>
 						<key>UsbConnector</key>
 						<integer>10</integer>
 						<key>name</key>
@@ -68,7 +68,7 @@
 					<key>PRT2</key>
 					<dict>
 						<key>Comment</key>
-						<string>后U32-A</string>
+						<string>Rear3.2-TypeA</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -81,7 +81,7 @@
 					<key>PRT3</key>
 					<dict>
 						<key>Comment</key>
-						<string>后U32-C</string>
+						<string>Rear3.2-TypeC</string>
 						<key>UsbConnector</key>
 						<integer>10</integer>
 						<key>name</key>
@@ -94,7 +94,7 @@
 					<key>PRT4</key>
 					<dict>
 						<key>Comment</key>
-						<string>后U32-A</string>
+						<string>Rear3.2-TypeA</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -142,7 +142,7 @@
 					<key>HS01</key>
 					<dict>
 						<key>Comment</key>
-						<string>猜测内U3-侧01</string>
+						<string>Board3.X-Side20Pin01</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -155,7 +155,7 @@
 					<key>HS02</key>
 					<dict>
 						<key>Comment</key>
-						<string>猜测内U3-侧02</string>
+						<string>Board3.X-Side20Pin02</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -168,7 +168,7 @@
 					<key>HS03</key>
 					<dict>
 						<key>Comment</key>
-						<string>内U3-下03</string>
+						<string>Board3.X-Bottom20Pin03</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -181,7 +181,7 @@
 					<key>HS04</key>
 					<dict>
 						<key>Comment</key>
-						<string>内U3-下04</string>
+						<string>Board3.X-Bottom20Pin04</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -194,7 +194,7 @@
 					<key>HS05</key>
 					<dict>
 						<key>Comment</key>
-						<string>后U3右</string>
+						<string>Rear3.X-Right</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -207,7 +207,7 @@
 					<key>HS06</key>
 					<dict>
 						<key>Comment</key>
-						<string>后U3左</string>
+						<string>Rear3.X-Left</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -220,7 +220,7 @@
 					<key>HS07</key>
 					<dict>
 						<key>Comment</key>
-						<string>猜测M.2</string>
+						<string>M.2</string>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>name</key>
@@ -233,7 +233,7 @@
 					<key>HS08</key>
 					<dict>
 						<key>Comment</key>
-						<string>猜测M.2</string>
+						<string>M.2</string>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>name</key>
@@ -246,9 +246,9 @@
 					<key>HS09</key>
 					<dict>
 						<key>Comment</key>
-						<string>内U2-下10</string>
+						<string>Board2.0-Bottom9Pin10</string>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>0</integer>
 						<key>name</key>
 						<string>HS09</string>
 						<key>port</key>
@@ -259,9 +259,9 @@
 					<key>HS10</key>
 					<dict>
 						<key>Comment</key>
-						<string>内U2-下09</string>
+						<string>Board2.0-Bottom9Pin09</string>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>0</integer>
 						<key>name</key>
 						<string>HS10</string>
 						<key>port</key>
@@ -272,9 +272,9 @@
 					<key>HS11</key>
 					<dict>
 						<key>Comment</key>
-						<string>内U2-下12</string>
+						<string>Board2.0-Bottom9Pin12</string>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>0</integer>
 						<key>name</key>
 						<string>HS11</string>
 						<key>port</key>
@@ -285,9 +285,9 @@
 					<key>HS12</key>
 					<dict>
 						<key>Comment</key>
-						<string>内U2-下11</string>
+						<string>Board2.0-Bottom9Pin11</string>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>0</integer>
 						<key>name</key>
 						<string>HS12</string>
 						<key>port</key>
@@ -298,7 +298,7 @@
 					<key>HS13</key>
 					<dict>
 						<key>Comment</key>
-						<string>后U2-右</string>
+						<string>Rear2.0-Right</string>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>name</key>
@@ -311,7 +311,7 @@
 					<key>HS14</key>
 					<dict>
 						<key>Comment</key>
-						<string>后U2-左</string>
+						<string>Rear2.0-Left</string>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>name</key>
@@ -324,7 +324,7 @@
 					<key>SS01</key>
 					<dict>
 						<key>Comment</key>
-						<string>猜测内U3-侧01</string>
+						<string>Board3.X-Side20Pin01</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -337,7 +337,7 @@
 					<key>SS02</key>
 					<dict>
 						<key>Comment</key>
-						<string>猜测内U3-侧02</string>
+						<string>Board3.X-Side20Pin02</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -350,7 +350,7 @@
 					<key>SS03</key>
 					<dict>
 						<key>Comment</key>
-						<string>内U3-下03</string>
+						<string>Board3.X-Bottom20Pin03</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -363,7 +363,7 @@
 					<key>SS04</key>
 					<dict>
 						<key>Comment</key>
-						<string>内U3-下04</string>
+						<string>Board3.X-Bottom20Pin04</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -376,7 +376,7 @@
 					<key>SS05</key>
 					<dict>
 						<key>Comment</key>
-						<string>后U3右</string>
+						<string>Rear3.X-Right</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -389,7 +389,7 @@
 					<key>SS06</key>
 					<dict>
 						<key>Comment</key>
-						<string>后U3左</string>
+						<string>Rear3.X-Left</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
