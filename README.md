@@ -1,10 +1,10 @@
-# Opencore(0.5.8) configuration on Ausu Z370a
+# Opencore(0.5.8) configuration on Asus Z370a
 
 ![About My Mac](about.png)
 
 ### Hardware
 
-- Ausu Z370a
+- Asus Z370a
 - Intel Core 8700K
 - 4 * Kingston Predator 3600MHz 8G
 - 1 * Samsung 970 EVO NVMe M.2 250GB
