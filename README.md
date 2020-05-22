@@ -35,5 +35,5 @@ pmset -b hibernatemode 0
 #### ⚠️Attention
 
 - Please generate your own PlatformInfo(Generic + platformNVRAM)
-- If you are using discrete graphics card, please remove '-wegnoegpu'
+- If you are using discrete graphics card, please remove 'disable-external-gpu'
 - If you changed the SystemProductName(`Macmini8,1`), please also change it in USBPorts-AsusZ370Axxxxxx.kext
