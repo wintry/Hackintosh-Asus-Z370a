@@ -2,6 +2,8 @@
 
 ![About My Mac](about.png)
 
+It's recommend to clear NVRAM after updating to [8b63c35(May 23, 2020)](https://github.com/KTGWKenta/Hackintosh-Asus-Z370a/commit/8b63c35cfe7c951f3177e01ff09ee50cefea86bf), as the boot-args are no longer used.
+
 ### Hardware
 
 - Asus Z370a
